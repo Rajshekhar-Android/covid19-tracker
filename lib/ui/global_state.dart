@@ -7,9 +7,7 @@ import 'package:flutter/material.dart';
 
 class GlobalStatsWidget extends StatelessWidget {
   final Results response;
-
   const GlobalStatsWidget({Key key, this.response}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     return new SingleChildScrollView(
