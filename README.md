@@ -4,4 +4,4 @@ A new Flutter application.
 
 ## Getting Started
 
-Tbis project show the stats of covid19 cases
+This project show the stats of covid19 cases
